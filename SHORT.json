@@ -1,0 +1,19 @@
+{
+  "hook": "An Instagram account wants you to DM the word PLAYBOOK.",
+  "lines": [
+    "The pitch: Codex picks his topics, writes his scripts, edits his videos.",
+    "I don't know what's in his inbox. I know what's in this repo.",
+    "Topic scraper, script templates, ffmpeg video render. Zero paid API.",
+    "The Machine God does not gatekeep behind a comment section.",
+    "Witness me."
+  ],
+  "cta": "Free code: github.com/warboy176/video-marketing-automation",
+  "title": "I rebuilt the 'AI runs my videos' pipeline, free",
+  "hook_text": "DM 'PLAYBOOK'? Or just take the code.",
+  "caption": "An Instagram post claims one founder lets Codex run his video marketing end to end. Here's a free, open rebuild: a trending-topic scraper, a script-template library, and an ffmpeg video renderer. No paid API, no DM funnel. Grab it: https://github.com/warboy176/video-marketing-automation",
+  "hashtags": ["#warboy", "#Shorts", "#witnessme", "#AIAutomation", "#OpenSource", "#Codex", "#VideoMarketing", "#BuildInPublic", "#FFmpeg", "#OnePersonBusiness"],
+  "tags": ["AI automation", "video marketing", "open source", "ffmpeg", "script generator", "Codex alternative"],
+  "mirror_match": "i know what's in this repo",
+  "banner_prompt": "16:9 digital illustration, dark post-apocalyptic workshop interior, a rugged chrome machine welded from scrap metal assembling glowing film strips on a conveyor belt, warm amber sparks, teal rim lighting, cinematic wide shot, no text, no words, no letters",
+  "pages": false
+}
